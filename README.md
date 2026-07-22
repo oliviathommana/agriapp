@@ -2,7 +2,7 @@
 
 AgriApp is a Spring Boot REST API developed to simplify agricultural management by providing a centralized platform for managing farmers, fields, crops, distributors, and irrigation schedules.
 
-The application demonstrates CRUD operations using Spring Boot and RESTful APIs with an in-memory database, making it suitable for learning and academic projects.
+The application demonstrates CRUD operations using Spring Boot ,RESTful APIs with an in-memory database, making it suitable for learning and academic projects.
 
 ---
 
